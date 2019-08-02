@@ -1,0 +1,32 @@
+
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: rgb(37, 45, 48);
+  text-decoration: none;
+}
+
+div {
+  margin-top: 50px;
+}
+
+div ul {
+  position: relative;
+  left: -25px;
+  top: -5px;
+}
+
+div ul li {
+  position: relative;
+  margin-bottom: 10px;
+  width: 160px;
+}
+
+div ul li button {
+  position: absolute;
+  right: 0;
+}
+

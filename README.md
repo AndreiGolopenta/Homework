@@ -1,1 +1,1 @@
-# MyJSONServer
+# Homework repository
